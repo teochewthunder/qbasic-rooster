@@ -58,8 +58,6 @@ FOR i = 0 TO 10 STEP 1
     CALL delay(0.5)
 NEXT i
 
-
-
 COLOR 0, bg
 
 SUB delay (Value!)
