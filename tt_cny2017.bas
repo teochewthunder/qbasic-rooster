@@ -171,7 +171,6 @@ SUB draw_body2 ()
     CALL drawstr(14, 31, 4, 15, "           ")
 END SUB
 
-
 SUB draw_legs1 (bg)
     CALL drawstr(15, 1, 14, bg, "                                  |   |")
     CALL drawstr(16, 1, 14, bg, "                                  |   |")
